@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 491cd32eeb836f7459e86954bd46e95b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: back
+    100004: BackBody
+    100006: BackDoor
+    100008: BackStairs
+    100010: bottom
+    100012: Chimney1
+    100014: Chimney3
+    100016: Chimney5
+    100018: Front
+    100020: FrontBody
+    100022: FrontStairs
+    100024: //RootNode
+    100026: imagePlane1
+    100028: left
+    100030: MainBody
+    100032: Side1
+    100034: Side2
+    100036: Side3
+    100038: Tower1
+    100040: Tower3
+    100042: Tower4
+    100044: Tower5
+    100046: Tower6
+    100048: Tower7
+    100050: transform1
+    400000: Back
+    400002: back
+    400004: BackBody
+    400006: BackDoor
+    400008: BackStairs
+    400010: bottom
+    400012: Chimney1
+    400014: Chimney3
+    400016: Chimney5
+    400018: Front
+    400020: FrontBody
+    400022: FrontStairs
+    400024: //RootNode
+    400026: imagePlane1
+    400028: left
+    400030: MainBody
+    400032: Side1
+    400034: Side2
+    400036: Side3
+    400038: Tower1
+    400040: Tower3
+    400042: Tower4
+    400044: Tower5
+    400046: Tower6
+    400048: Tower7
+    400050: transform1
+    2000000: back
+    2000002: bottom
+    2000004: left
+    2100000: Roof
+    2100002: Brick
+    2100004: Window
+    2300000: BackBody
+    2300002: BackDoor
+    2300004: BackStairs
+    2300006: Chimney3
+    2300008: Chimney5
+    2300010: FrontBody
+    2300012: FrontStairs
+    2300014: MainBody
+    2300016: Side2
+    2300018: Side3
+    2300020: Tower4
+    2300022: Tower5
+    2300024: Tower6
+    2300026: Tower7
+    3300000: BackBody
+    3300002: BackDoor
+    3300004: BackStairs
+    3300006: Chimney3
+    3300008: Chimney5
+    3300010: FrontBody
+    3300012: FrontStairs
+    3300014: MainBody
+    3300016: Side2
+    3300018: Side3
+    3300020: Tower4
+    3300022: Tower5
+    3300024: Tower6
+    3300026: Tower7
+    4300000: MainBody
+    4300002: Chimney3
+    4300004: FrontBody
+    4300006: Side2
+    4300008: BackBody
+    4300010: BackStairs
+    4300012: FrontStairs
+    4300014: Tower6
+    4300016: BackDoor
+    4300018: Tower4
+    4300020: Tower5
+    4300022: Tower7
+    4300024: Side3
+    4300026: Chimney5
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick
+    second: {fileID: 2100000, guid: 2b1abdf89c38301419fbcdf28cbf0946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: a03d21dbc31241240811731ba3966581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 748a53269a10f1c45aa1892430eae5f2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
