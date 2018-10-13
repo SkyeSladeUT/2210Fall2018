@@ -1,0 +1,1608 @@
+fileFormatVersion: 2
+guid: 2a255f4f37508bc439857d821cb4160e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackGround
+    100002: BackGroundGAme
+    100004: BackGroundGame
+    100006: BallonDartGame
+    100008: Balloon
+    100010: Balloon1
+    100012: Balloon10
+    100014: Balloon11
+    100016: Balloon12
+    100018: Balloon13
+    100020: Balloon2
+    100022: Balloon3
+    100024: Balloon4
+    100026: Balloon5
+    100028: Balloon6
+    100030: Balloon7
+    100032: Balloon8
+    100034: Balloon9
+    100036: Balloons
+    100038: Base
+    100040: Bottle
+    100042: Bottle 1
+    100044: Bottles
+    100046: Building
+    100048: Building 1
+    100050: Building 2
+    100052: Building 3
+    100054: Building 4
+    100056: BumperCar
+    100058: BumperCar5
+    100060: BumperCar6
+    100062: BumperCar7
+    100064: BumperCarQueues
+    100066: BumperCars
+    100068: CarouselQueue
+    100070: Chair
+    100072: Chair 1
+    100074: Chair 2
+    100076: Chair1
+    100078: Chair1 1
+    100080: Chair1 2
+    100082: Chair2
+    100084: Chair2 1
+    100086: Chair2 2
+    100088: Chair3
+    100090: Chair3 1
+    100092: Chair3 2
+    100094: CircusTent
+    100096: Concrete
+    100098: Cone
+    100100: Cone1
+    100102: Cone2
+    100104: //RootNode
+    100106: FerrisQueue
+    100108: FoodStand
+    100110: Games
+    100112: Hammer
+    100114: Inflatable_hammer
+    100116: Inflatable_hammer10
+    100118: Inflatable_hammer12
+    100120: Inflatable_hammer13
+    100122: Inflatable_hammer14
+    100124: Inflatable_hammer15
+    100126: Inflatable_hammer16
+    100128: Inflatable_hammer17
+    100130: Inflatable_hammer18
+    100132: Inflatable_hammer19
+    100134: Inflatable_hammer3
+    100136: Inflatable_hammer4
+    100138: Inflatable_hammer5
+    100140: Inflatable_hammer7
+    100142: Inflatable_hammer8
+    100144: MilkJugGame
+    100146: MinionToy10
+    100148: MinionToy10 1
+    100150: MinionToy11
+    100152: MinionToy4
+    100154: MinionToy4 1
+    100156: MinionToy5
+    100158: MinionToy5 1
+    100160: MinionToy6
+    100162: MinionToy6 1
+    100164: MinionToy7
+    100166: MinionToy7 1
+    100168: MinionToy8
+    100170: MinionToy8 1
+    100172: MinionToy9
+    100174: MinionToy9 1
+    100176: pCube20
+    100178: pCube20 1
+    100180: pCube39
+    100182: pCube39 1
+    100184: pCube39 2
+    100186: pCube39 3
+    100188: pCube40
+    100190: pCube40 1
+    100192: pCube42
+    100194: pCylinder10
+    100196: pCylinder11
+    100198: pCylinder12
+    100200: pCylinder13
+    100202: pCylinder14
+    100204: pCylinder15
+    100206: pCylinder16
+    100208: pCylinder17
+    100210: pCylinder18
+    100212: pCylinder19
+    100214: pCylinder20
+    100216: pCylinder20 1
+    100218: pCylinder21
+    100220: pCylinder21 1
+    100222: pCylinder22
+    100224: pCylinder22 1
+    100226: pCylinder23
+    100228: pCylinder23 1
+    100230: pCylinder24
+    100232: pCylinder24 1
+    100234: pCylinder25
+    100236: pCylinder25 1
+    100238: pCylinder26
+    100240: pCylinder26 1
+    100242: pCylinder27
+    100244: pCylinder27 1
+    100246: pCylinder28
+    100248: pCylinder28 1
+    100250: pCylinder29
+    100252: pCylinder29 1
+    100254: pCylinder30
+    100256: pCylinder30 1
+    100258: pCylinder31
+    100260: pCylinder31 1
+    100262: pCylinder32
+    100264: pCylinder32 1
+    100266: pCylinder33
+    100268: pCylinder33 1
+    100270: pCylinder34
+    100272: pCylinder34 1
+    100274: pCylinder35
+    100276: pCylinder35 1
+    100278: pCylinder36
+    100280: pCylinder36 1
+    100282: pCylinder37
+    100284: pCylinder37 1
+    100286: pCylinder38
+    100288: pCylinder38 1
+    100290: pCylinder39
+    100292: pCylinder39 1
+    100294: pCylinder40
+    100296: pCylinder40 1
+    100298: pCylinder41
+    100300: pCylinder41 1
+    100302: pCylinder42
+    100304: pCylinder42 1
+    100306: pCylinder43
+    100308: pCylinder43 1
+    100310: pCylinder44
+    100312: pCylinder44 1
+    100314: pCylinder45
+    100316: pCylinder45 1
+    100318: pCylinder46
+    100320: pCylinder46 1
+    100322: pCylinder47
+    100324: pCylinder47 1
+    100326: pCylinder48
+    100328: pCylinder48 1
+    100330: pCylinder49
+    100332: pCylinder49 1
+    100334: pCylinder50
+    100336: pCylinder50 1
+    100338: pCylinder51
+    100340: pCylinder51 1
+    100342: pCylinder52
+    100344: pCylinder52 1
+    100346: pCylinder53
+    100348: pCylinder53 1
+    100350: pCylinder54
+    100352: pCylinder54 1
+    100354: pCylinder55
+    100356: pCylinder55 1
+    100358: pCylinder56
+    100360: pCylinder57
+    100362: pCylinder58
+    100364: pCylinder59
+    100366: pCylinder60
+    100368: pCylinder61
+    100370: pCylinder63
+    100372: pCylinder64
+    100374: pCylinder68
+    100376: pCylinder68 1
+    100378: pCylinder68 2
+    100380: pCylinder68 3
+    100382: pCylinder69
+    100384: pCylinder69 1
+    100386: pCylinder69 2
+    100388: pCylinder69 3
+    100390: pCylinder8
+    100392: pCylinder89
+    100394: pCylinder9
+    100396: pCylinder90
+    100398: pCylinder91
+    100400: pCylinder92
+    100402: PikachuToy
+    100404: PikachuToy1
+    100406: PikachuToy10
+    100408: PikachuToy11
+    100410: PikachuToy2
+    100412: PikachuToy3
+    100414: PikachuToy4
+    100416: PikachuToy5
+    100418: PikachuToy6
+    100420: PikachuToy7
+    100422: PikachuToy8
+    100424: PikachuToy9
+    100426: Pretzel
+    100428: Pretzel1
+    100430: Pretzel10
+    100432: Pretzel11
+    100434: Pretzel12
+    100436: Pretzel13
+    100438: Pretzel14
+    100440: Pretzel15
+    100442: Pretzel2
+    100444: Pretzel3
+    100446: Pretzel4
+    100448: Pretzel5
+    100450: Pretzel6
+    100452: Pretzel7
+    100454: Pretzel8
+    100456: Pretzel9
+    100458: Pretzels
+    100460: QueuesAndCones
+    100462: Ring
+    100464: Ring10
+    100466: Ring11
+    100468: Ring12
+    100470: Ring13
+    100472: Ring14
+    100474: Ring15
+    100476: Ring6
+    100478: Ring7
+    100480: Ring8
+    100482: Ring9
+    100484: RingToss
+    100486: RingToss1
+    100488: RingTossGame
+    100490: RollerCoasterQueue
+    100492: Roof
+    100494: Roof 1
+    100496: Roof2
+    100498: Roof3
+    100500: Roof4
+    100502: Roof5
+    100504: Roof6
+    100506: RubberDuck
+    100508: RubberDuck1
+    100510: RubberDuck10
+    100512: RubberDuck11
+    100514: RubberDuck12
+    100516: RubberDuck13
+    100518: RubberDuck14
+    100520: RubberDuck15
+    100522: RubberDuck16
+    100524: RubberDuck17
+    100526: RubberDuck18
+    100528: RubberDuck19
+    100530: RubberDuck2
+    100532: RubberDuck20
+    100534: RubberDuck21
+    100536: RubberDuck22
+    100538: RubberDuck23
+    100540: RubberDuck24
+    100542: RubberDuck25
+    100544: RubberDuck26
+    100546: RubberDuck27
+    100548: RubberDuck28
+    100550: RubberDuck29
+    100552: RubberDuck3
+    100554: RubberDuck30
+    100556: RubberDuck31
+    100558: RubberDuck32
+    100560: RubberDuck33
+    100562: RubberDuck34
+    100564: RubberDuck35
+    100566: RubberDuck36
+    100568: RubberDuck37
+    100570: RubberDuck38
+    100572: RubberDuck39
+    100574: RubberDuck4
+    100576: RubberDuck40
+    100578: RubberDuck41
+    100580: RubberDuck42
+    100582: RubberDuck5
+    100584: RubberDuck6
+    100586: RubberDuck7
+    100588: RubberDuck8
+    100590: RubberDuck9
+    100592: RubberDuckGame
+    100594: Slushie
+    100596: Slushie1
+    100598: Stand1
+    100600: StrengthGame
+    100602: Table
+    100604: Table 1
+    100606: Table 2
+    100608: TableAndChairs2
+    100610: TableAndChairs3
+    100612: TableAndChairs4
+    100614: Tables
+    100616: Tent
+    100618: Tent2
+    100620: Tent3
+    100622: Tents
+    100624: Toys
+    100626: Toys1
+    100628: Toys2
+    100630: Toys3
+    400000: BackGround
+    400002: BackGroundGAme
+    400004: BackGroundGame
+    400006: BallonDartGame
+    400008: Balloon
+    400010: Balloon1
+    400012: Balloon10
+    400014: Balloon11
+    400016: Balloon12
+    400018: Balloon13
+    400020: Balloon2
+    400022: Balloon3
+    400024: Balloon4
+    400026: Balloon5
+    400028: Balloon6
+    400030: Balloon7
+    400032: Balloon8
+    400034: Balloon9
+    400036: Balloons
+    400038: Base
+    400040: Bottle
+    400042: Bottle 1
+    400044: Bottles
+    400046: Building
+    400048: Building 1
+    400050: Building 2
+    400052: Building 3
+    400054: Building 4
+    400056: BumperCar
+    400058: BumperCar5
+    400060: BumperCar6
+    400062: BumperCar7
+    400064: BumperCarQueues
+    400066: BumperCars
+    400068: CarouselQueue
+    400070: Chair
+    400072: Chair 1
+    400074: Chair 2
+    400076: Chair1
+    400078: Chair1 1
+    400080: Chair1 2
+    400082: Chair2
+    400084: Chair2 1
+    400086: Chair2 2
+    400088: Chair3
+    400090: Chair3 1
+    400092: Chair3 2
+    400094: CircusTent
+    400096: Concrete
+    400098: Cone
+    400100: Cone1
+    400102: Cone2
+    400104: //RootNode
+    400106: FerrisQueue
+    400108: FoodStand
+    400110: Games
+    400112: Hammer
+    400114: Inflatable_hammer
+    400116: Inflatable_hammer10
+    400118: Inflatable_hammer12
+    400120: Inflatable_hammer13
+    400122: Inflatable_hammer14
+    400124: Inflatable_hammer15
+    400126: Inflatable_hammer16
+    400128: Inflatable_hammer17
+    400130: Inflatable_hammer18
+    400132: Inflatable_hammer19
+    400134: Inflatable_hammer3
+    400136: Inflatable_hammer4
+    400138: Inflatable_hammer5
+    400140: Inflatable_hammer7
+    400142: Inflatable_hammer8
+    400144: MilkJugGame
+    400146: MinionToy10
+    400148: MinionToy10 1
+    400150: MinionToy11
+    400152: MinionToy4
+    400154: MinionToy4 1
+    400156: MinionToy5
+    400158: MinionToy5 1
+    400160: MinionToy6
+    400162: MinionToy6 1
+    400164: MinionToy7
+    400166: MinionToy7 1
+    400168: MinionToy8
+    400170: MinionToy8 1
+    400172: MinionToy9
+    400174: MinionToy9 1
+    400176: pCube20
+    400178: pCube20 1
+    400180: pCube39
+    400182: pCube39 1
+    400184: pCube39 2
+    400186: pCube39 3
+    400188: pCube40
+    400190: pCube40 1
+    400192: pCube42
+    400194: pCylinder10
+    400196: pCylinder11
+    400198: pCylinder12
+    400200: pCylinder13
+    400202: pCylinder14
+    400204: pCylinder15
+    400206: pCylinder16
+    400208: pCylinder17
+    400210: pCylinder18
+    400212: pCylinder19
+    400214: pCylinder20
+    400216: pCylinder20 1
+    400218: pCylinder21
+    400220: pCylinder21 1
+    400222: pCylinder22
+    400224: pCylinder22 1
+    400226: pCylinder23
+    400228: pCylinder23 1
+    400230: pCylinder24
+    400232: pCylinder24 1
+    400234: pCylinder25
+    400236: pCylinder25 1
+    400238: pCylinder26
+    400240: pCylinder26 1
+    400242: pCylinder27
+    400244: pCylinder27 1
+    400246: pCylinder28
+    400248: pCylinder28 1
+    400250: pCylinder29
+    400252: pCylinder29 1
+    400254: pCylinder30
+    400256: pCylinder30 1
+    400258: pCylinder31
+    400260: pCylinder31 1
+    400262: pCylinder32
+    400264: pCylinder32 1
+    400266: pCylinder33
+    400268: pCylinder33 1
+    400270: pCylinder34
+    400272: pCylinder34 1
+    400274: pCylinder35
+    400276: pCylinder35 1
+    400278: pCylinder36
+    400280: pCylinder36 1
+    400282: pCylinder37
+    400284: pCylinder37 1
+    400286: pCylinder38
+    400288: pCylinder38 1
+    400290: pCylinder39
+    400292: pCylinder39 1
+    400294: pCylinder40
+    400296: pCylinder40 1
+    400298: pCylinder41
+    400300: pCylinder41 1
+    400302: pCylinder42
+    400304: pCylinder42 1
+    400306: pCylinder43
+    400308: pCylinder43 1
+    400310: pCylinder44
+    400312: pCylinder44 1
+    400314: pCylinder45
+    400316: pCylinder45 1
+    400318: pCylinder46
+    400320: pCylinder46 1
+    400322: pCylinder47
+    400324: pCylinder47 1
+    400326: pCylinder48
+    400328: pCylinder48 1
+    400330: pCylinder49
+    400332: pCylinder49 1
+    400334: pCylinder50
+    400336: pCylinder50 1
+    400338: pCylinder51
+    400340: pCylinder51 1
+    400342: pCylinder52
+    400344: pCylinder52 1
+    400346: pCylinder53
+    400348: pCylinder53 1
+    400350: pCylinder54
+    400352: pCylinder54 1
+    400354: pCylinder55
+    400356: pCylinder55 1
+    400358: pCylinder56
+    400360: pCylinder57
+    400362: pCylinder58
+    400364: pCylinder59
+    400366: pCylinder60
+    400368: pCylinder61
+    400370: pCylinder63
+    400372: pCylinder64
+    400374: pCylinder68
+    400376: pCylinder68 1
+    400378: pCylinder68 2
+    400380: pCylinder68 3
+    400382: pCylinder69
+    400384: pCylinder69 1
+    400386: pCylinder69 2
+    400388: pCylinder69 3
+    400390: pCylinder8
+    400392: pCylinder89
+    400394: pCylinder9
+    400396: pCylinder90
+    400398: pCylinder91
+    400400: pCylinder92
+    400402: PikachuToy
+    400404: PikachuToy1
+    400406: PikachuToy10
+    400408: PikachuToy11
+    400410: PikachuToy2
+    400412: PikachuToy3
+    400414: PikachuToy4
+    400416: PikachuToy5
+    400418: PikachuToy6
+    400420: PikachuToy7
+    400422: PikachuToy8
+    400424: PikachuToy9
+    400426: Pretzel
+    400428: Pretzel1
+    400430: Pretzel10
+    400432: Pretzel11
+    400434: Pretzel12
+    400436: Pretzel13
+    400438: Pretzel14
+    400440: Pretzel15
+    400442: Pretzel2
+    400444: Pretzel3
+    400446: Pretzel4
+    400448: Pretzel5
+    400450: Pretzel6
+    400452: Pretzel7
+    400454: Pretzel8
+    400456: Pretzel9
+    400458: Pretzels
+    400460: QueuesAndCones
+    400462: Ring
+    400464: Ring10
+    400466: Ring11
+    400468: Ring12
+    400470: Ring13
+    400472: Ring14
+    400474: Ring15
+    400476: Ring6
+    400478: Ring7
+    400480: Ring8
+    400482: Ring9
+    400484: RingToss
+    400486: RingToss1
+    400488: RingTossGame
+    400490: RollerCoasterQueue
+    400492: Roof
+    400494: Roof 1
+    400496: Roof2
+    400498: Roof3
+    400500: Roof4
+    400502: Roof5
+    400504: Roof6
+    400506: RubberDuck
+    400508: RubberDuck1
+    400510: RubberDuck10
+    400512: RubberDuck11
+    400514: RubberDuck12
+    400516: RubberDuck13
+    400518: RubberDuck14
+    400520: RubberDuck15
+    400522: RubberDuck16
+    400524: RubberDuck17
+    400526: RubberDuck18
+    400528: RubberDuck19
+    400530: RubberDuck2
+    400532: RubberDuck20
+    400534: RubberDuck21
+    400536: RubberDuck22
+    400538: RubberDuck23
+    400540: RubberDuck24
+    400542: RubberDuck25
+    400544: RubberDuck26
+    400546: RubberDuck27
+    400548: RubberDuck28
+    400550: RubberDuck29
+    400552: RubberDuck3
+    400554: RubberDuck30
+    400556: RubberDuck31
+    400558: RubberDuck32
+    400560: RubberDuck33
+    400562: RubberDuck34
+    400564: RubberDuck35
+    400566: RubberDuck36
+    400568: RubberDuck37
+    400570: RubberDuck38
+    400572: RubberDuck39
+    400574: RubberDuck4
+    400576: RubberDuck40
+    400578: RubberDuck41
+    400580: RubberDuck42
+    400582: RubberDuck5
+    400584: RubberDuck6
+    400586: RubberDuck7
+    400588: RubberDuck8
+    400590: RubberDuck9
+    400592: RubberDuckGame
+    400594: Slushie
+    400596: Slushie1
+    400598: Stand1
+    400600: StrengthGame
+    400602: Table
+    400604: Table 1
+    400606: Table 2
+    400608: TableAndChairs2
+    400610: TableAndChairs3
+    400612: TableAndChairs4
+    400614: Tables
+    400616: Tent
+    400618: Tent2
+    400620: Tent3
+    400622: Tents
+    400624: Toys
+    400626: Toys1
+    400628: Toys2
+    400630: Toys3
+    2100000: BumperCarBuilding
+    2100002: BumperCar1
+    2100004: BumperCar2
+    2100006: BumperCar3
+    2100008: BumperCar4
+    2100010: FoodStand1
+    2100012: UnUsed
+    2100014: ConesAndQueues
+    2100016: RingToss2
+    2100018: MilkJugGame1
+    2100020: BackGroundGame1
+    2100022: RubberDuckGame1
+    2100024: BalloonDartGame
+    2100026: Hammers
+    2100028: StrengthGame1
+    2100030: Tables1
+    2100032: BackGround1
+    2100034: StuffedToys
+    2100036: SideWalk
+    2300000: BackGround
+    2300002: Balloon
+    2300004: Balloon1
+    2300006: Balloon10
+    2300008: Balloon11
+    2300010: Balloon12
+    2300012: Balloon13
+    2300014: Balloon2
+    2300016: Balloon3
+    2300018: Balloon4
+    2300020: Balloon5
+    2300022: Balloon6
+    2300024: Balloon7
+    2300026: Balloon8
+    2300028: Balloon9
+    2300030: Base
+    2300032: Building
+    2300034: Building 1
+    2300036: Building 2
+    2300038: Building 3
+    2300040: Building 4
+    2300042: BumperCarQueues
+    2300044: CarouselQueue
+    2300046: Chair
+    2300048: Chair 1
+    2300050: Chair 2
+    2300052: Chair1
+    2300054: Chair1 1
+    2300056: Chair1 2
+    2300058: Chair2
+    2300060: Chair2 1
+    2300062: Chair2 2
+    2300064: Chair3
+    2300066: Chair3 1
+    2300068: Chair3 2
+    2300070: CircusTent
+    2300072: Concrete
+    2300074: Cone
+    2300076: Cone1
+    2300078: Cone2
+    2300080: FerrisQueue
+    2300082: Hammer
+    2300084: Inflatable_hammer
+    2300086: Inflatable_hammer10
+    2300088: Inflatable_hammer12
+    2300090: Inflatable_hammer13
+    2300092: Inflatable_hammer14
+    2300094: Inflatable_hammer15
+    2300096: Inflatable_hammer16
+    2300098: Inflatable_hammer17
+    2300100: Inflatable_hammer18
+    2300102: Inflatable_hammer19
+    2300104: Inflatable_hammer3
+    2300106: Inflatable_hammer4
+    2300108: Inflatable_hammer5
+    2300110: Inflatable_hammer7
+    2300112: Inflatable_hammer8
+    2300114: MinionToy10
+    2300116: MinionToy10 1
+    2300118: MinionToy11
+    2300120: MinionToy4
+    2300122: MinionToy4 1
+    2300124: MinionToy5
+    2300126: MinionToy5 1
+    2300128: MinionToy6
+    2300130: MinionToy6 1
+    2300132: MinionToy7
+    2300134: MinionToy7 1
+    2300136: MinionToy8
+    2300138: MinionToy8 1
+    2300140: MinionToy9
+    2300142: MinionToy9 1
+    2300144: pCube20
+    2300146: pCube20 1
+    2300148: pCube39
+    2300150: pCube39 1
+    2300152: pCube39 2
+    2300154: pCube39 3
+    2300156: pCube40
+    2300158: pCube40 1
+    2300160: pCube42
+    2300162: pCylinder10
+    2300164: pCylinder11
+    2300166: pCylinder12
+    2300168: pCylinder13
+    2300170: pCylinder14
+    2300172: pCylinder15
+    2300174: pCylinder16
+    2300176: pCylinder17
+    2300178: pCylinder18
+    2300180: pCylinder19
+    2300182: pCylinder20
+    2300184: pCylinder20 1
+    2300186: pCylinder21
+    2300188: pCylinder21 1
+    2300190: pCylinder22
+    2300192: pCylinder22 1
+    2300194: pCylinder23
+    2300196: pCylinder23 1
+    2300198: pCylinder24
+    2300200: pCylinder24 1
+    2300202: pCylinder25
+    2300204: pCylinder25 1
+    2300206: pCylinder26
+    2300208: pCylinder26 1
+    2300210: pCylinder27
+    2300212: pCylinder27 1
+    2300214: pCylinder28
+    2300216: pCylinder28 1
+    2300218: pCylinder29
+    2300220: pCylinder29 1
+    2300222: pCylinder30
+    2300224: pCylinder30 1
+    2300226: pCylinder31
+    2300228: pCylinder31 1
+    2300230: pCylinder32
+    2300232: pCylinder32 1
+    2300234: pCylinder33
+    2300236: pCylinder33 1
+    2300238: pCylinder34
+    2300240: pCylinder34 1
+    2300242: pCylinder35
+    2300244: pCylinder35 1
+    2300246: pCylinder36
+    2300248: pCylinder36 1
+    2300250: pCylinder37
+    2300252: pCylinder37 1
+    2300254: pCylinder38
+    2300256: pCylinder38 1
+    2300258: pCylinder39
+    2300260: pCylinder39 1
+    2300262: pCylinder40
+    2300264: pCylinder40 1
+    2300266: pCylinder41
+    2300268: pCylinder41 1
+    2300270: pCylinder42
+    2300272: pCylinder42 1
+    2300274: pCylinder43
+    2300276: pCylinder43 1
+    2300278: pCylinder44
+    2300280: pCylinder44 1
+    2300282: pCylinder45
+    2300284: pCylinder45 1
+    2300286: pCylinder46
+    2300288: pCylinder46 1
+    2300290: pCylinder47
+    2300292: pCylinder47 1
+    2300294: pCylinder48
+    2300296: pCylinder48 1
+    2300298: pCylinder49
+    2300300: pCylinder49 1
+    2300302: pCylinder50
+    2300304: pCylinder50 1
+    2300306: pCylinder51
+    2300308: pCylinder51 1
+    2300310: pCylinder52
+    2300312: pCylinder52 1
+    2300314: pCylinder53
+    2300316: pCylinder53 1
+    2300318: pCylinder54
+    2300320: pCylinder54 1
+    2300322: pCylinder55
+    2300324: pCylinder55 1
+    2300326: pCylinder56
+    2300328: pCylinder57
+    2300330: pCylinder58
+    2300332: pCylinder59
+    2300334: pCylinder60
+    2300336: pCylinder61
+    2300338: pCylinder63
+    2300340: pCylinder64
+    2300342: pCylinder68
+    2300344: pCylinder68 1
+    2300346: pCylinder68 2
+    2300348: pCylinder68 3
+    2300350: pCylinder69
+    2300352: pCylinder69 1
+    2300354: pCylinder69 2
+    2300356: pCylinder69 3
+    2300358: pCylinder8
+    2300360: pCylinder89
+    2300362: pCylinder9
+    2300364: pCylinder90
+    2300366: pCylinder91
+    2300368: pCylinder92
+    2300370: PikachuToy
+    2300372: PikachuToy1
+    2300374: PikachuToy10
+    2300376: PikachuToy11
+    2300378: PikachuToy2
+    2300380: PikachuToy3
+    2300382: PikachuToy4
+    2300384: PikachuToy5
+    2300386: PikachuToy6
+    2300388: PikachuToy7
+    2300390: PikachuToy8
+    2300392: PikachuToy9
+    2300394: Pretzel
+    2300396: Pretzel1
+    2300398: Pretzel10
+    2300400: Pretzel11
+    2300402: Pretzel12
+    2300404: Pretzel13
+    2300406: Pretzel14
+    2300408: Pretzel15
+    2300410: Pretzel2
+    2300412: Pretzel3
+    2300414: Pretzel4
+    2300416: Pretzel5
+    2300418: Pretzel6
+    2300420: Pretzel7
+    2300422: Pretzel8
+    2300424: Pretzel9
+    2300426: Ring10
+    2300428: Ring11
+    2300430: Ring12
+    2300432: Ring13
+    2300434: Ring14
+    2300436: Ring15
+    2300438: Ring6
+    2300440: Ring7
+    2300442: Ring8
+    2300444: Ring9
+    2300446: RollerCoasterQueue
+    2300448: Roof
+    2300450: Roof 1
+    2300452: Roof2
+    2300454: Roof3
+    2300456: Roof4
+    2300458: Roof5
+    2300460: Roof6
+    2300462: RubberDuck
+    2300464: RubberDuck1
+    2300466: RubberDuck10
+    2300468: RubberDuck11
+    2300470: RubberDuck12
+    2300472: RubberDuck13
+    2300474: RubberDuck14
+    2300476: RubberDuck15
+    2300478: RubberDuck16
+    2300480: RubberDuck17
+    2300482: RubberDuck18
+    2300484: RubberDuck19
+    2300486: RubberDuck2
+    2300488: RubberDuck20
+    2300490: RubberDuck21
+    2300492: RubberDuck22
+    2300494: RubberDuck23
+    2300496: RubberDuck24
+    2300498: RubberDuck25
+    2300500: RubberDuck26
+    2300502: RubberDuck27
+    2300504: RubberDuck28
+    2300506: RubberDuck29
+    2300508: RubberDuck3
+    2300510: RubberDuck30
+    2300512: RubberDuck31
+    2300514: RubberDuck32
+    2300516: RubberDuck33
+    2300518: RubberDuck34
+    2300520: RubberDuck35
+    2300522: RubberDuck36
+    2300524: RubberDuck37
+    2300526: RubberDuck38
+    2300528: RubberDuck39
+    2300530: RubberDuck4
+    2300532: RubberDuck40
+    2300534: RubberDuck41
+    2300536: RubberDuck42
+    2300538: RubberDuck5
+    2300540: RubberDuck6
+    2300542: RubberDuck7
+    2300544: RubberDuck8
+    2300546: RubberDuck9
+    2300548: Slushie
+    2300550: Slushie1
+    2300552: Stand1
+    2300554: Table
+    2300556: Table 1
+    2300558: Table 2
+    2300560: Tent
+    2300562: Tent2
+    2300564: Tent3
+    3300000: BackGround
+    3300002: Balloon
+    3300004: Balloon1
+    3300006: Balloon10
+    3300008: Balloon11
+    3300010: Balloon12
+    3300012: Balloon13
+    3300014: Balloon2
+    3300016: Balloon3
+    3300018: Balloon4
+    3300020: Balloon5
+    3300022: Balloon6
+    3300024: Balloon7
+    3300026: Balloon8
+    3300028: Balloon9
+    3300030: Base
+    3300032: Building
+    3300034: Building 1
+    3300036: Building 2
+    3300038: Building 3
+    3300040: Building 4
+    3300042: BumperCarQueues
+    3300044: CarouselQueue
+    3300046: Chair
+    3300048: Chair 1
+    3300050: Chair 2
+    3300052: Chair1
+    3300054: Chair1 1
+    3300056: Chair1 2
+    3300058: Chair2
+    3300060: Chair2 1
+    3300062: Chair2 2
+    3300064: Chair3
+    3300066: Chair3 1
+    3300068: Chair3 2
+    3300070: CircusTent
+    3300072: Concrete
+    3300074: Cone
+    3300076: Cone1
+    3300078: Cone2
+    3300080: FerrisQueue
+    3300082: Hammer
+    3300084: Inflatable_hammer
+    3300086: Inflatable_hammer10
+    3300088: Inflatable_hammer12
+    3300090: Inflatable_hammer13
+    3300092: Inflatable_hammer14
+    3300094: Inflatable_hammer15
+    3300096: Inflatable_hammer16
+    3300098: Inflatable_hammer17
+    3300100: Inflatable_hammer18
+    3300102: Inflatable_hammer19
+    3300104: Inflatable_hammer3
+    3300106: Inflatable_hammer4
+    3300108: Inflatable_hammer5
+    3300110: Inflatable_hammer7
+    3300112: Inflatable_hammer8
+    3300114: MinionToy10
+    3300116: MinionToy10 1
+    3300118: MinionToy11
+    3300120: MinionToy4
+    3300122: MinionToy4 1
+    3300124: MinionToy5
+    3300126: MinionToy5 1
+    3300128: MinionToy6
+    3300130: MinionToy6 1
+    3300132: MinionToy7
+    3300134: MinionToy7 1
+    3300136: MinionToy8
+    3300138: MinionToy8 1
+    3300140: MinionToy9
+    3300142: MinionToy9 1
+    3300144: pCube20
+    3300146: pCube20 1
+    3300148: pCube39
+    3300150: pCube39 1
+    3300152: pCube39 2
+    3300154: pCube39 3
+    3300156: pCube40
+    3300158: pCube40 1
+    3300160: pCube42
+    3300162: pCylinder10
+    3300164: pCylinder11
+    3300166: pCylinder12
+    3300168: pCylinder13
+    3300170: pCylinder14
+    3300172: pCylinder15
+    3300174: pCylinder16
+    3300176: pCylinder17
+    3300178: pCylinder18
+    3300180: pCylinder19
+    3300182: pCylinder20
+    3300184: pCylinder20 1
+    3300186: pCylinder21
+    3300188: pCylinder21 1
+    3300190: pCylinder22
+    3300192: pCylinder22 1
+    3300194: pCylinder23
+    3300196: pCylinder23 1
+    3300198: pCylinder24
+    3300200: pCylinder24 1
+    3300202: pCylinder25
+    3300204: pCylinder25 1
+    3300206: pCylinder26
+    3300208: pCylinder26 1
+    3300210: pCylinder27
+    3300212: pCylinder27 1
+    3300214: pCylinder28
+    3300216: pCylinder28 1
+    3300218: pCylinder29
+    3300220: pCylinder29 1
+    3300222: pCylinder30
+    3300224: pCylinder30 1
+    3300226: pCylinder31
+    3300228: pCylinder31 1
+    3300230: pCylinder32
+    3300232: pCylinder32 1
+    3300234: pCylinder33
+    3300236: pCylinder33 1
+    3300238: pCylinder34
+    3300240: pCylinder34 1
+    3300242: pCylinder35
+    3300244: pCylinder35 1
+    3300246: pCylinder36
+    3300248: pCylinder36 1
+    3300250: pCylinder37
+    3300252: pCylinder37 1
+    3300254: pCylinder38
+    3300256: pCylinder38 1
+    3300258: pCylinder39
+    3300260: pCylinder39 1
+    3300262: pCylinder40
+    3300264: pCylinder40 1
+    3300266: pCylinder41
+    3300268: pCylinder41 1
+    3300270: pCylinder42
+    3300272: pCylinder42 1
+    3300274: pCylinder43
+    3300276: pCylinder43 1
+    3300278: pCylinder44
+    3300280: pCylinder44 1
+    3300282: pCylinder45
+    3300284: pCylinder45 1
+    3300286: pCylinder46
+    3300288: pCylinder46 1
+    3300290: pCylinder47
+    3300292: pCylinder47 1
+    3300294: pCylinder48
+    3300296: pCylinder48 1
+    3300298: pCylinder49
+    3300300: pCylinder49 1
+    3300302: pCylinder50
+    3300304: pCylinder50 1
+    3300306: pCylinder51
+    3300308: pCylinder51 1
+    3300310: pCylinder52
+    3300312: pCylinder52 1
+    3300314: pCylinder53
+    3300316: pCylinder53 1
+    3300318: pCylinder54
+    3300320: pCylinder54 1
+    3300322: pCylinder55
+    3300324: pCylinder55 1
+    3300326: pCylinder56
+    3300328: pCylinder57
+    3300330: pCylinder58
+    3300332: pCylinder59
+    3300334: pCylinder60
+    3300336: pCylinder61
+    3300338: pCylinder63
+    3300340: pCylinder64
+    3300342: pCylinder68
+    3300344: pCylinder68 1
+    3300346: pCylinder68 2
+    3300348: pCylinder68 3
+    3300350: pCylinder69
+    3300352: pCylinder69 1
+    3300354: pCylinder69 2
+    3300356: pCylinder69 3
+    3300358: pCylinder8
+    3300360: pCylinder89
+    3300362: pCylinder9
+    3300364: pCylinder90
+    3300366: pCylinder91
+    3300368: pCylinder92
+    3300370: PikachuToy
+    3300372: PikachuToy1
+    3300374: PikachuToy10
+    3300376: PikachuToy11
+    3300378: PikachuToy2
+    3300380: PikachuToy3
+    3300382: PikachuToy4
+    3300384: PikachuToy5
+    3300386: PikachuToy6
+    3300388: PikachuToy7
+    3300390: PikachuToy8
+    3300392: PikachuToy9
+    3300394: Pretzel
+    3300396: Pretzel1
+    3300398: Pretzel10
+    3300400: Pretzel11
+    3300402: Pretzel12
+    3300404: Pretzel13
+    3300406: Pretzel14
+    3300408: Pretzel15
+    3300410: Pretzel2
+    3300412: Pretzel3
+    3300414: Pretzel4
+    3300416: Pretzel5
+    3300418: Pretzel6
+    3300420: Pretzel7
+    3300422: Pretzel8
+    3300424: Pretzel9
+    3300426: Ring10
+    3300428: Ring11
+    3300430: Ring12
+    3300432: Ring13
+    3300434: Ring14
+    3300436: Ring15
+    3300438: Ring6
+    3300440: Ring7
+    3300442: Ring8
+    3300444: Ring9
+    3300446: RollerCoasterQueue
+    3300448: Roof
+    3300450: Roof 1
+    3300452: Roof2
+    3300454: Roof3
+    3300456: Roof4
+    3300458: Roof5
+    3300460: Roof6
+    3300462: RubberDuck
+    3300464: RubberDuck1
+    3300466: RubberDuck10
+    3300468: RubberDuck11
+    3300470: RubberDuck12
+    3300472: RubberDuck13
+    3300474: RubberDuck14
+    3300476: RubberDuck15
+    3300478: RubberDuck16
+    3300480: RubberDuck17
+    3300482: RubberDuck18
+    3300484: RubberDuck19
+    3300486: RubberDuck2
+    3300488: RubberDuck20
+    3300490: RubberDuck21
+    3300492: RubberDuck22
+    3300494: RubberDuck23
+    3300496: RubberDuck24
+    3300498: RubberDuck25
+    3300500: RubberDuck26
+    3300502: RubberDuck27
+    3300504: RubberDuck28
+    3300506: RubberDuck29
+    3300508: RubberDuck3
+    3300510: RubberDuck30
+    3300512: RubberDuck31
+    3300514: RubberDuck32
+    3300516: RubberDuck33
+    3300518: RubberDuck34
+    3300520: RubberDuck35
+    3300522: RubberDuck36
+    3300524: RubberDuck37
+    3300526: RubberDuck38
+    3300528: RubberDuck39
+    3300530: RubberDuck4
+    3300532: RubberDuck40
+    3300534: RubberDuck41
+    3300536: RubberDuck42
+    3300538: RubberDuck5
+    3300540: RubberDuck6
+    3300542: RubberDuck7
+    3300544: RubberDuck8
+    3300546: RubberDuck9
+    3300548: Slushie
+    3300550: Slushie1
+    3300552: Stand1
+    3300554: Table
+    3300556: Table 1
+    3300558: Table 2
+    3300560: Tent
+    3300562: Tent2
+    3300564: Tent3
+    4300000: Roof
+    4300002: pCylinder69
+    4300004: pCube39
+    4300006: pCylinder68
+    4300008: Base
+    4300010: pCylinder69
+    4300012: pCube39
+    4300014: pCylinder68
+    4300016: pCylinder69
+    4300018: pCube39
+    4300020: pCylinder68
+    4300022: pCylinder69
+    4300024: pCube39
+    4300026: pCylinder68
+    4300028: Building
+    4300030: Slushie
+    4300032: Pretzel6
+    4300034: Pretzel7
+    4300036: Pretzel5
+    4300038: Pretzel4
+    4300040: Pretzel2
+    4300042: Pretzel3
+    4300044: Pretzel1
+    4300046: Pretzel
+    4300048: Pretzel8
+    4300050: Pretzel9
+    4300052: Pretzel10
+    4300054: Pretzel11
+    4300056: Pretzel12
+    4300058: Pretzel13
+    4300060: Pretzel14
+    4300062: Pretzel15
+    4300064: Stand1
+    4300066: Slushie1
+    4300068: Tent
+    4300070: Tent2
+    4300072: Tent3
+    4300074: CarouselQueue
+    4300076: BumperCarQueues
+    4300078: RollerCoasterQueue
+    4300080: FerrisQueue
+    4300082: Cone2
+    4300084: Cone
+    4300086: Cone1
+    4300088: pCube20
+    4300090: pCylinder21
+    4300092: pCylinder41
+    4300094: pCylinder42
+    4300096: pCylinder43
+    4300098: pCylinder22
+    4300100: pCylinder23
+    4300102: pCylinder52
+    4300104: pCylinder53
+    4300106: pCylinder54
+    4300108: pCylinder55
+    4300110: pCylinder44
+    4300112: pCylinder45
+    4300114: pCylinder46
+    4300116: pCylinder47
+    4300118: pCylinder48
+    4300120: pCylinder49
+    4300122: pCylinder50
+    4300124: pCylinder51
+    4300126: pCylinder20
+    4300128: pCylinder24
+    4300130: pCylinder25
+    4300132: pCylinder28
+    4300134: pCylinder29
+    4300136: pCylinder32
+    4300138: pCylinder33
+    4300140: pCylinder34
+    4300142: pCylinder35
+    4300144: pCylinder36
+    4300146: pCylinder37
+    4300148: pCylinder38
+    4300150: pCylinder39
+    4300152: pCylinder40
+    4300154: pCylinder30
+    4300156: pCylinder31
+    4300158: pCylinder26
+    4300160: pCylinder27
+    4300162: Building
+    4300164: Ring6
+    4300166: pCylinder64
+    4300168: pCylinder63
+    4300170: Ring7
+    4300172: Ring8
+    4300174: Ring9
+    4300176: Ring10
+    4300178: Ring11
+    4300180: Ring12
+    4300182: Ring13
+    4300184: Ring14
+    4300186: Ring15
+    4300188: pCube20
+    4300190: pCylinder21
+    4300192: pCylinder41
+    4300194: pCylinder42
+    4300196: pCylinder43
+    4300198: pCylinder22
+    4300200: pCylinder23
+    4300202: pCylinder52
+    4300204: pCylinder53
+    4300206: pCylinder54
+    4300208: pCylinder55
+    4300210: pCylinder44
+    4300212: pCylinder45
+    4300214: pCylinder46
+    4300216: pCylinder47
+    4300218: pCylinder48
+    4300220: pCylinder49
+    4300222: pCylinder50
+    4300224: pCylinder51
+    4300226: pCylinder20
+    4300228: pCylinder24
+    4300230: pCylinder25
+    4300232: pCylinder28
+    4300234: pCylinder29
+    4300236: pCylinder32
+    4300238: pCylinder33
+    4300240: pCylinder34
+    4300242: pCylinder35
+    4300244: pCylinder36
+    4300246: pCylinder37
+    4300248: pCylinder38
+    4300250: pCylinder39
+    4300252: pCylinder40
+    4300254: pCylinder30
+    4300256: pCylinder31
+    4300258: pCylinder26
+    4300260: pCylinder27
+    4300262: Roof
+    4300264: Building
+    4300266: pCylinder8
+    4300268: pCylinder9
+    4300270: pCylinder10
+    4300272: pCylinder11
+    4300274: pCylinder12
+    4300276: pCylinder13
+    4300278: pCylinder14
+    4300280: pCylinder15
+    4300282: pCylinder16
+    4300284: pCylinder17
+    4300286: pCylinder18
+    4300288: pCylinder19
+    4300290: pCylinder56
+    4300292: pCylinder57
+    4300294: pCylinder58
+    4300296: pCylinder59
+    4300298: pCylinder60
+    4300300: pCylinder61
+    4300302: Roof3
+    4300304: pCube40
+    4300306: Roof6
+    4300308: pCube40
+    4300310: Roof5
+    4300312: Building
+    4300314: RubberDuck
+    4300316: Roof2
+    4300318: RubberDuck1
+    4300320: RubberDuck2
+    4300322: RubberDuck3
+    4300324: RubberDuck4
+    4300326: RubberDuck5
+    4300328: RubberDuck6
+    4300330: RubberDuck7
+    4300332: RubberDuck8
+    4300334: RubberDuck9
+    4300336: RubberDuck10
+    4300338: RubberDuck11
+    4300340: RubberDuck12
+    4300342: RubberDuck13
+    4300344: RubberDuck14
+    4300346: RubberDuck15
+    4300348: RubberDuck16
+    4300350: RubberDuck17
+    4300352: RubberDuck18
+    4300354: RubberDuck19
+    4300356: RubberDuck20
+    4300358: RubberDuck21
+    4300360: RubberDuck22
+    4300362: RubberDuck23
+    4300364: RubberDuck24
+    4300366: RubberDuck25
+    4300368: RubberDuck26
+    4300370: RubberDuck27
+    4300372: RubberDuck28
+    4300374: RubberDuck29
+    4300376: RubberDuck30
+    4300378: RubberDuck31
+    4300380: RubberDuck32
+    4300382: RubberDuck33
+    4300384: RubberDuck34
+    4300386: RubberDuck35
+    4300388: RubberDuck36
+    4300390: RubberDuck37
+    4300392: RubberDuck38
+    4300394: RubberDuck39
+    4300396: RubberDuck40
+    4300398: RubberDuck41
+    4300400: RubberDuck42
+    4300402: Building
+    4300404: Balloon
+    4300406: Balloon1
+    4300408: Balloon2
+    4300410: Balloon3
+    4300412: Balloon4
+    4300414: Balloon5
+    4300416: Balloon6
+    4300418: Balloon7
+    4300420: Balloon8
+    4300422: Balloon9
+    4300424: Balloon10
+    4300426: Balloon11
+    4300428: Balloon12
+    4300430: Balloon13
+    4300432: Roof4
+    4300434: pCylinder89
+    4300436: pCube42
+    4300438: pCylinder90
+    4300440: pCylinder91
+    4300442: pCylinder92
+    4300444: Hammer
+    4300446: Chair
+    4300448: Table
+    4300450: Chair1
+    4300452: Chair2
+    4300454: Chair3
+    4300456: Chair
+    4300458: Table
+    4300460: Chair1
+    4300462: Chair2
+    4300464: Chair3
+    4300466: Chair
+    4300468: Table
+    4300470: Chair1
+    4300472: Chair2
+    4300474: Chair3
+    4300476: CircusTent
+    4300478: BackGround
+    4300480: MinionToy4
+    4300482: PikachuToy
+    4300484: PikachuToy1
+    4300486: MinionToy5
+    4300488: MinionToy6
+    4300490: PikachuToy2
+    4300492: MinionToy7
+    4300494: PikachuToy3
+    4300496: MinionToy8
+    4300498: MinionToy9
+    4300500: MinionToy10
+    4300502: PikachuToy4
+    4300504: PikachuToy5
+    4300506: PikachuToy6
+    4300508: MinionToy4
+    4300510: MinionToy5
+    4300512: MinionToy6
+    4300514: MinionToy7
+    4300516: MinionToy8
+    4300518: MinionToy9
+    4300520: MinionToy10
+    4300522: MinionToy11
+    4300524: Inflatable_hammer
+    4300526: Inflatable_hammer17
+    4300528: Inflatable_hammer18
+    4300530: Inflatable_hammer19
+    4300532: Inflatable_hammer3
+    4300534: Inflatable_hammer4
+    4300536: Inflatable_hammer5
+    4300538: PikachuToy9
+    4300540: PikachuToy10
+    4300542: PikachuToy11
+    4300544: PikachuToy8
+    4300546: PikachuToy7
+    4300548: Inflatable_hammer7
+    4300550: Inflatable_hammer8
+    4300552: Inflatable_hammer10
+    4300554: Inflatable_hammer12
+    4300556: Inflatable_hammer13
+    4300558: Inflatable_hammer14
+    4300560: Inflatable_hammer15
+    4300562: Inflatable_hammer16
+    4300564: Concrete
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConesAndQueues
+    second: {fileID: 2100000, guid: 431ab0358bfbdaf4a80178ce30355c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SideWalk
+    second: {fileID: 2100000, guid: 02e96ca8969e36946afc65487c56559e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrengthGame1
+    second: {fileID: 2100000, guid: 4e68c492b1de045478066741e24a5ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tables1
+    second: {fileID: 2100000, guid: 41789909887767b4c8e084d0ed6aa698, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
