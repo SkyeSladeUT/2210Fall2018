@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 2a255f4f37508bc439857d821cb4160e
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: BackGround
     100002: BackGroundGAme
@@ -1507,8 +1507,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: BalloonDartGame
+    second: {fileID: 2100000, guid: 715bd69fd53233b42b61a0926824d07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ConesAndQueues
     second: {fileID: 2100000, guid: 431ab0358bfbdaf4a80178ce30355c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MilkJugGame1
+    second: {fileID: 2100000, guid: 670ee6b487ee7164ca2ed885619c72fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RingToss2
+    second: {fileID: 2100000, guid: 046f0f4db601b224296c13b5f638ccf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RubberDuckGame1
+    second: {fileID: 2100000, guid: 634173590c1cce14391253d2f37460b9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1519,6 +1539,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: StrengthGame1
     second: {fileID: 2100000, guid: 4e68c492b1de045478066741e24a5ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StuffedToys
+    second: {fileID: 2100000, guid: aecaf715a9db42b4a9827b516cee4623, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1574,8 +1599,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
