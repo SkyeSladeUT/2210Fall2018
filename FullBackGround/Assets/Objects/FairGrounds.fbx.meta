@@ -1507,8 +1507,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: BackGroundGame1
+    second: {fileID: 2100000, guid: 56702a5cc2be197469db1fea0dcfe01b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: BalloonDartGame
     second: {fileID: 2100000, guid: 715bd69fd53233b42b61a0926824d07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BumperCar1
+    second: {fileID: 2100000, guid: 8c849e8a3af183947b29c729cf6d9316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BumperCar2
+    second: {fileID: 2100000, guid: 99f9519e00a2ee94cb393ad635476d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BumperCar3
+    second: {fileID: 2100000, guid: f412abd57070eaa4e94b3bfca5677899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BumperCar4
+    second: {fileID: 2100000, guid: aa4fa46df7b5bae4eb9e05043fd819ec, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

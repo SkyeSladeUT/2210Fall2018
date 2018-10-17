@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: d158196c8523c71468e95e4535b35c06
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body3
+    100004: Body3 1
+    100006: Body3 2
+    100008: Body3 3
+    100010: Body3 4
+    100012: Carousel
+    100014: Carousel 1
+    100016: //RootNode
+    100018: joint2
+    100020: joint3
+    100022: joint4
+    100024: joint5
+    100026: joint6
+    100028: joint7
+    100030: L_Antler
+    100032: L_Antler 1
+    100034: L_Antler 2
+    100036: L_Antler 3
+    100038: L_Antler 4
+    100040: L_Back_Leg
+    100042: L_Back_Leg 1
+    100044: L_Back_Leg 2
+    100046: L_Back_Leg 3
+    100048: L_Back_Leg 4
+    100050: L_Front_Leg
+    100052: L_Front_Leg 1
+    100054: L_Front_Leg 2
+    100056: L_Front_Leg 3
+    100058: L_Front_Leg 4
+    100060: Pole10
+    100062: Pole11
+    100064: Pole6
+    100066: Pole7
+    100068: Pole8
+    100070: Pole9
+    100072: polySurface10
+    100074: polySurface11
+    100076: polySurface12
+    100078: polySurface13
+    100080: polySurface14
+    100082: polySurface15
+    100084: polySurface16
+    100086: polySurface8
+    100088: polySurface9
+    100090: Presemt
+    100092: Presemt1
+    100094: Presemt2
+    100096: PresentBox
+    100098: PresentBox 1
+    100100: PresentBox 2
+    100102: R_Antler
+    100104: R_Antler 1
+    100106: R_Antler 2
+    100108: R_Antler 3
+    100110: R_Antler 4
+    100112: R_Back_Leg
+    100114: R_Back_Leg 1
+    100116: R_Back_Leg 2
+    100118: R_Back_Leg 3
+    100120: R_Back_Leg 4
+    100122: R_Front_Leg
+    100124: R_Front_Leg 1
+    100126: R_Front_Leg 2
+    100128: R_Front_Leg 3
+    100130: R_Front_Leg 4
+    100132: Rail
+    100134: Rail 1
+    100136: Rail 2
+    100138: Rail 3
+    100140: Rail 4
+    100142: Rail 5
+    100144: Rail5
+    100146: Rail5 1
+    100148: Rail5 2
+    100150: Rail5 3
+    100152: Rail5 4
+    100154: Rail5 5
+    100156: Rail6
+    100158: Rail6 1
+    100160: Rail6 2
+    100162: Rail6 3
+    100164: Rail6 4
+    100166: Rail6 5
+    100168: Rail7
+    100170: Rail7 1
+    100172: Rail7 2
+    100174: Rail7 3
+    100176: Rail7 4
+    100178: Rail7 5
+    100180: Railing1
+    100182: Railing2
+    100184: Railing3
+    100186: Railing4
+    100188: Railing5
+    100190: Railing6
+    100192: Reindeer
+    100194: Reindeer2
+    100196: Reindeer3
+    100198: Reindeer4
+    100200: Reindeer5
+    100202: Ribbon
+    100204: Ribbon 1
+    100206: Ribbon 2
+    100208: Roof
+    100210: Roof2
+    100212: Rope
+    100214: Rope 1
+    100216: Rope 2
+    100218: Rope 3
+    100220: Rope 4
+    100222: Rope 5
+    100224: Rope10
+    100226: Rope10 1
+    100228: Rope10 2
+    100230: Rope10 3
+    100232: Rope10 4
+    100234: Rope10 5
+    100236: Rope2
+    100238: Rope2 1
+    100240: Rope2 2
+    100242: Rope2 3
+    100244: Rope2 4
+    100246: Rope2 5
+    100248: Rope3
+    100250: Rope3 1
+    100252: Rope3 2
+    100254: Rope3 3
+    100256: Rope3 4
+    100258: Rope3 5
+    100260: Rope4
+    100262: Rope4 1
+    100264: Rope4 2
+    100266: Rope4 3
+    100268: Rope4 4
+    100270: Rope4 5
+    100272: Rope7
+    100274: Rope7 1
+    100276: Rope7 2
+    100278: Rope7 3
+    100280: Rope7 4
+    100282: Rope7 5
+    100284: Rope8
+    100286: Rope8 1
+    100288: Rope8 2
+    100290: Rope8 3
+    100292: Rope8 4
+    100294: Rope8 5
+    100296: Rope9
+    100298: Rope9 1
+    100300: Rope9 2
+    100302: Rope9 3
+    100304: Rope9 4
+    100306: Rope9 5
+    100308: Skates
+    100310: Skates1
+    100312: Sled
+    100314: Sleigh
+    400000: Body
+    400002: Body3
+    400004: Body3 1
+    400006: Body3 2
+    400008: Body3 3
+    400010: Body3 4
+    400012: Carousel
+    400014: Carousel 1
+    400016: //RootNode
+    400018: joint2
+    400020: joint3
+    400022: joint4
+    400024: joint5
+    400026: joint6
+    400028: joint7
+    400030: L_Antler
+    400032: L_Antler 1
+    400034: L_Antler 2
+    400036: L_Antler 3
+    400038: L_Antler 4
+    400040: L_Back_Leg
+    400042: L_Back_Leg 1
+    400044: L_Back_Leg 2
+    400046: L_Back_Leg 3
+    400048: L_Back_Leg 4
+    400050: L_Front_Leg
+    400052: L_Front_Leg 1
+    400054: L_Front_Leg 2
+    400056: L_Front_Leg 3
+    400058: L_Front_Leg 4
+    400060: Pole10
+    400062: Pole11
+    400064: Pole6
+    400066: Pole7
+    400068: Pole8
+    400070: Pole9
+    400072: polySurface10
+    400074: polySurface11
+    400076: polySurface12
+    400078: polySurface13
+    400080: polySurface14
+    400082: polySurface15
+    400084: polySurface16
+    400086: polySurface8
+    400088: polySurface9
+    400090: Presemt
+    400092: Presemt1
+    400094: Presemt2
+    400096: PresentBox
+    400098: PresentBox 1
+    400100: PresentBox 2
+    400102: R_Antler
+    400104: R_Antler 1
+    400106: R_Antler 2
+    400108: R_Antler 3
+    400110: R_Antler 4
+    400112: R_Back_Leg
+    400114: R_Back_Leg 1
+    400116: R_Back_Leg 2
+    400118: R_Back_Leg 3
+    400120: R_Back_Leg 4
+    400122: R_Front_Leg
+    400124: R_Front_Leg 1
+    400126: R_Front_Leg 2
+    400128: R_Front_Leg 3
+    400130: R_Front_Leg 4
+    400132: Rail
+    400134: Rail 1
+    400136: Rail 2
+    400138: Rail 3
+    400140: Rail 4
+    400142: Rail 5
+    400144: Rail5
+    400146: Rail5 1
+    400148: Rail5 2
+    400150: Rail5 3
+    400152: Rail5 4
+    400154: Rail5 5
+    400156: Rail6
+    400158: Rail6 1
+    400160: Rail6 2
+    400162: Rail6 3
+    400164: Rail6 4
+    400166: Rail6 5
+    400168: Rail7
+    400170: Rail7 1
+    400172: Rail7 2
+    400174: Rail7 3
+    400176: Rail7 4
+    400178: Rail7 5
+    400180: Railing1
+    400182: Railing2
+    400184: Railing3
+    400186: Railing4
+    400188: Railing5
+    400190: Railing6
+    400192: Reindeer
+    400194: Reindeer2
+    400196: Reindeer3
+    400198: Reindeer4
+    400200: Reindeer5
+    400202: Ribbon
+    400204: Ribbon 1
+    400206: Ribbon 2
+    400208: Roof
+    400210: Roof2
+    400212: Rope
+    400214: Rope 1
+    400216: Rope 2
+    400218: Rope 3
+    400220: Rope 4
+    400222: Rope 5
+    400224: Rope10
+    400226: Rope10 1
+    400228: Rope10 2
+    400230: Rope10 3
+    400232: Rope10 4
+    400234: Rope10 5
+    400236: Rope2
+    400238: Rope2 1
+    400240: Rope2 2
+    400242: Rope2 3
+    400244: Rope2 4
+    400246: Rope2 5
+    400248: Rope3
+    400250: Rope3 1
+    400252: Rope3 2
+    400254: Rope3 3
+    400256: Rope3 4
+    400258: Rope3 5
+    400260: Rope4
+    400262: Rope4 1
+    400264: Rope4 2
+    400266: Rope4 3
+    400268: Rope4 4
+    400270: Rope4 5
+    400272: Rope7
+    400274: Rope7 1
+    400276: Rope7 2
+    400278: Rope7 3
+    400280: Rope7 4
+    400282: Rope7 5
+    400284: Rope8
+    400286: Rope8 1
+    400288: Rope8 2
+    400290: Rope8 3
+    400292: Rope8 4
+    400294: Rope8 5
+    400296: Rope9
+    400298: Rope9 1
+    400300: Rope9 2
+    400302: Rope9 3
+    400304: Rope9 4
+    400306: Rope9 5
+    400308: Skates
+    400310: Skates1
+    400312: Sled
+    400314: Sleigh
+    2100000: Reindeer1
+    2100002: Railing
+    2100004: Sled1
+    2100006: Presents
+    2100008: Roof1
+    2100010: CarouselBody
+    2300000: Body3
+    2300002: Body3 1
+    2300004: Body3 2
+    2300006: Body3 3
+    2300008: Body3 4
+    2300010: L_Antler
+    2300012: L_Antler 1
+    2300014: L_Antler 2
+    2300016: L_Antler 3
+    2300018: L_Antler 4
+    2300020: L_Back_Leg
+    2300022: L_Back_Leg 1
+    2300024: L_Back_Leg 2
+    2300026: L_Back_Leg 3
+    2300028: L_Back_Leg 4
+    2300030: L_Front_Leg
+    2300032: L_Front_Leg 1
+    2300034: L_Front_Leg 2
+    2300036: L_Front_Leg 3
+    2300038: L_Front_Leg 4
+    2300040: Pole10
+    2300042: Pole11
+    2300044: Pole6
+    2300046: Pole7
+    2300048: Pole8
+    2300050: Pole9
+    2300052: polySurface10
+    2300054: polySurface11
+    2300056: polySurface12
+    2300058: polySurface13
+    2300060: polySurface14
+    2300062: polySurface15
+    2300064: polySurface16
+    2300066: polySurface8
+    2300068: polySurface9
+    2300070: PresentBox
+    2300072: PresentBox 1
+    2300074: PresentBox 2
+    2300076: R_Antler
+    2300078: R_Antler 1
+    2300080: R_Antler 2
+    2300082: R_Antler 3
+    2300084: R_Antler 4
+    2300086: R_Back_Leg
+    2300088: R_Back_Leg 1
+    2300090: R_Back_Leg 2
+    2300092: R_Back_Leg 3
+    2300094: R_Back_Leg 4
+    2300096: R_Front_Leg
+    2300098: R_Front_Leg 1
+    2300100: R_Front_Leg 2
+    2300102: R_Front_Leg 3
+    2300104: R_Front_Leg 4
+    2300106: Rail
+    2300108: Rail 1
+    2300110: Rail 2
+    2300112: Rail 3
+    2300114: Rail 4
+    2300116: Rail 5
+    2300118: Rail5
+    2300120: Rail5 1
+    2300122: Rail5 2
+    2300124: Rail5 3
+    2300126: Rail5 4
+    2300128: Rail5 5
+    2300130: Rail6
+    2300132: Rail6 1
+    2300134: Rail6 2
+    2300136: Rail6 3
+    2300138: Rail6 4
+    2300140: Rail6 5
+    2300142: Rail7
+    2300144: Rail7 1
+    2300146: Rail7 2
+    2300148: Rail7 3
+    2300150: Rail7 4
+    2300152: Rail7 5
+    2300154: Ribbon
+    2300156: Ribbon 1
+    2300158: Ribbon 2
+    2300160: Roof
+    2300162: Roof2
+    2300164: Rope
+    2300166: Rope 1
+    2300168: Rope 2
+    2300170: Rope 3
+    2300172: Rope 4
+    2300174: Rope 5
+    2300176: Rope10
+    2300178: Rope10 1
+    2300180: Rope10 2
+    2300182: Rope10 3
+    2300184: Rope10 4
+    2300186: Rope10 5
+    2300188: Rope2
+    2300190: Rope2 1
+    2300192: Rope2 2
+    2300194: Rope2 3
+    2300196: Rope2 4
+    2300198: Rope2 5
+    2300200: Rope3
+    2300202: Rope3 1
+    2300204: Rope3 2
+    2300206: Rope3 3
+    2300208: Rope3 4
+    2300210: Rope3 5
+    2300212: Rope4
+    2300214: Rope4 1
+    2300216: Rope4 2
+    2300218: Rope4 3
+    2300220: Rope4 4
+    2300222: Rope4 5
+    2300224: Rope7
+    2300226: Rope7 1
+    2300228: Rope7 2
+    2300230: Rope7 3
+    2300232: Rope7 4
+    2300234: Rope7 5
+    2300236: Rope8
+    2300238: Rope8 1
+    2300240: Rope8 2
+    2300242: Rope8 3
+    2300244: Rope8 4
+    2300246: Rope8 5
+    2300248: Rope9
+    2300250: Rope9 1
+    2300252: Rope9 2
+    2300254: Rope9 3
+    2300256: Rope9 4
+    2300258: Rope9 5
+    2300260: Skates
+    2300262: Skates1
+    2300264: Sled
+    3300000: Body3
+    3300002: Body3 1
+    3300004: Body3 2
+    3300006: Body3 3
+    3300008: Body3 4
+    3300010: L_Antler
+    3300012: L_Antler 1
+    3300014: L_Antler 2
+    3300016: L_Antler 3
+    3300018: L_Antler 4
+    3300020: L_Back_Leg
+    3300022: L_Back_Leg 1
+    3300024: L_Back_Leg 2
+    3300026: L_Back_Leg 3
+    3300028: L_Back_Leg 4
+    3300030: L_Front_Leg
+    3300032: L_Front_Leg 1
+    3300034: L_Front_Leg 2
+    3300036: L_Front_Leg 3
+    3300038: L_Front_Leg 4
+    3300040: Pole10
+    3300042: Pole11
+    3300044: Pole6
+    3300046: Pole7
+    3300048: Pole8
+    3300050: Pole9
+    3300052: polySurface10
+    3300054: polySurface11
+    3300056: polySurface12
+    3300058: polySurface13
+    3300060: polySurface14
+    3300062: polySurface15
+    3300064: polySurface16
+    3300066: polySurface8
+    3300068: polySurface9
+    3300070: PresentBox
+    3300072: PresentBox 1
+    3300074: PresentBox 2
+    3300076: R_Antler
+    3300078: R_Antler 1
+    3300080: R_Antler 2
+    3300082: R_Antler 3
+    3300084: R_Antler 4
+    3300086: R_Back_Leg
+    3300088: R_Back_Leg 1
+    3300090: R_Back_Leg 2
+    3300092: R_Back_Leg 3
+    3300094: R_Back_Leg 4
+    3300096: R_Front_Leg
+    3300098: R_Front_Leg 1
+    3300100: R_Front_Leg 2
+    3300102: R_Front_Leg 3
+    3300104: R_Front_Leg 4
+    3300106: Rail
+    3300108: Rail 1
+    3300110: Rail 2
+    3300112: Rail 3
+    3300114: Rail 4
+    3300116: Rail 5
+    3300118: Rail5
+    3300120: Rail5 1
+    3300122: Rail5 2
+    3300124: Rail5 3
+    3300126: Rail5 4
+    3300128: Rail5 5
+    3300130: Rail6
+    3300132: Rail6 1
+    3300134: Rail6 2
+    3300136: Rail6 3
+    3300138: Rail6 4
+    3300140: Rail6 5
+    3300142: Rail7
+    3300144: Rail7 1
+    3300146: Rail7 2
+    3300148: Rail7 3
+    3300150: Rail7 4
+    3300152: Rail7 5
+    3300154: Ribbon
+    3300156: Ribbon 1
+    3300158: Ribbon 2
+    3300160: Roof
+    3300162: Roof2
+    3300164: Rope
+    3300166: Rope 1
+    3300168: Rope 2
+    3300170: Rope 3
+    3300172: Rope 4
+    3300174: Rope 5
+    3300176: Rope10
+    3300178: Rope10 1
+    3300180: Rope10 2
+    3300182: Rope10 3
+    3300184: Rope10 4
+    3300186: Rope10 5
+    3300188: Rope2
+    3300190: Rope2 1
+    3300192: Rope2 2
+    3300194: Rope2 3
+    3300196: Rope2 4
+    3300198: Rope2 5
+    3300200: Rope3
+    3300202: Rope3 1
+    3300204: Rope3 2
+    3300206: Rope3 3
+    3300208: Rope3 4
+    3300210: Rope3 5
+    3300212: Rope4
+    3300214: Rope4 1
+    3300216: Rope4 2
+    3300218: Rope4 3
+    3300220: Rope4 4
+    3300222: Rope4 5
+    3300224: Rope7
+    3300226: Rope7 1
+    3300228: Rope7 2
+    3300230: Rope7 3
+    3300232: Rope7 4
+    3300234: Rope7 5
+    3300236: Rope8
+    3300238: Rope8 1
+    3300240: Rope8 2
+    3300242: Rope8 3
+    3300244: Rope8 4
+    3300246: Rope8 5
+    3300248: Rope9
+    3300250: Rope9 1
+    3300252: Rope9 2
+    3300254: Rope9 3
+    3300256: Rope9 4
+    3300258: Rope9 5
+    3300260: Skates
+    3300262: Skates1
+    3300264: Sled
+    4300000: Body3
+    4300002: L_Back_Leg
+    4300004: R_Back_Leg
+    4300006: R_Front_Leg
+    4300008: L_Front_Leg
+    4300010: R_Antler
+    4300012: L_Antler
+    4300014: Body3
+    4300016: L_Back_Leg
+    4300018: R_Back_Leg
+    4300020: R_Front_Leg
+    4300022: L_Front_Leg
+    4300024: R_Antler
+    4300026: L_Antler
+    4300028: Skates
+    4300030: Sled
+    4300032: PresentBox
+    4300034: Ribbon
+    4300036: Skates1
+    4300038: PresentBox
+    4300040: Ribbon
+    4300042: PresentBox
+    4300044: Ribbon
+    4300046: Body3
+    4300048: L_Back_Leg
+    4300050: R_Back_Leg
+    4300052: R_Front_Leg
+    4300054: L_Front_Leg
+    4300056: R_Antler
+    4300058: L_Antler
+    4300060: Body3
+    4300062: L_Back_Leg
+    4300064: R_Back_Leg
+    4300066: R_Front_Leg
+    4300068: L_Front_Leg
+    4300070: R_Antler
+    4300072: L_Antler
+    4300074: Body3
+    4300076: L_Back_Leg
+    4300078: R_Back_Leg
+    4300080: R_Front_Leg
+    4300082: L_Front_Leg
+    4300084: R_Antler
+    4300086: L_Antler
+    4300088: Rail
+    4300090: Rope
+    4300092: Rope2
+    4300094: Rope3
+    4300096: Rope4
+    4300098: Rope7
+    4300100: Rope8
+    4300102: Rope9
+    4300104: Rope10
+    4300106: Rail5
+    4300108: Rail6
+    4300110: Rail7
+    4300112: Roof
+    4300114: polySurface8
+    4300116: polySurface9
+    4300118: polySurface10
+    4300120: polySurface11
+    4300122: polySurface12
+    4300124: polySurface13
+    4300126: polySurface14
+    4300128: polySurface15
+    4300130: polySurface16
+    4300132: Rail
+    4300134: Rope
+    4300136: Rope2
+    4300138: Rope3
+    4300140: Rope4
+    4300142: Rope7
+    4300144: Rope8
+    4300146: Rope9
+    4300148: Rope10
+    4300150: Rail5
+    4300152: Rail6
+    4300154: Rail7
+    4300156: Rail
+    4300158: Rope
+    4300160: Rope2
+    4300162: Rope3
+    4300164: Rope4
+    4300166: Rope7
+    4300168: Rope8
+    4300170: Rope9
+    4300172: Rope10
+    4300174: Rail5
+    4300176: Rail6
+    4300178: Rail7
+    4300180: Rail
+    4300182: Rope
+    4300184: Rope2
+    4300186: Rope3
+    4300188: Rope4
+    4300190: Rope7
+    4300192: Rope8
+    4300194: Rope9
+    4300196: Rope10
+    4300198: Rail5
+    4300200: Rail6
+    4300202: Rail7
+    4300204: Rail
+    4300206: Rope
+    4300208: Rope2
+    4300210: Rope3
+    4300212: Rope4
+    4300214: Rope7
+    4300216: Rope8
+    4300218: Rope9
+    4300220: Rope10
+    4300222: Rail5
+    4300224: Rail6
+    4300226: Rail7
+    4300228: Pole6
+    4300230: Pole7
+    4300232: Pole8
+    4300234: Pole9
+    4300236: Pole10
+    4300238: Pole11
+    4300240: Rail
+    4300242: Rope
+    4300244: Rope2
+    4300246: Rope3
+    4300248: Rope4
+    4300250: Rope7
+    4300252: Rope8
+    4300254: Rope9
+    4300256: Rope10
+    4300258: Rail5
+    4300260: Rail6
+    4300262: Rail7
+    4300264: Roof2
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarouselBody
+    second: {fileID: 2100000, guid: af6327b2ccd7b344b839cfde30b7009e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Presents
+    second: {fileID: 2100000, guid: d3ea919551e5b5f428f12b699496125d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Railing
+    second: {fileID: 2100000, guid: 43758c2a4fe72874497b5ba9fdbeb74f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reindeer1
+    second: {fileID: 2100000, guid: 1800bef37fe48fd4f8d3dae4531acae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof1
+    second: {fileID: 2100000, guid: 92f56806699b4d34cb91f4e1099685c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sled1
+    second: {fileID: 2100000, guid: d832da866f47959469a291ec10d0872e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
