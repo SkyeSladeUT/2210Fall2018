@@ -1542,6 +1542,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: FoodStand1
+    second: {fileID: 2100000, guid: 17533acea7b5f3346b24dd4b6a174660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: MilkJugGame1
     second: {fileID: 2100000, guid: 670ee6b487ee7164ca2ed885619c72fa, type: 2}
   - first:
