@@ -1537,6 +1537,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: BumperCarBuilding
+    second: {fileID: 2100000, guid: 8beb334cc8c230047892daacab10dc05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ConesAndQueues
     second: {fileID: 2100000, guid: 431ab0358bfbdaf4a80178ce30355c33, type: 2}
   - first:
