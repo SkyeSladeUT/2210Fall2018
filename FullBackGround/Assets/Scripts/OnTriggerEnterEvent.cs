@@ -6,11 +6,18 @@ using UnityEngine.Events;
 public class OnTriggerEnterEvent : MonoBehaviour
 {
 
-	public UnityEvent Event;
+	public UnityEvent Enter;
+	public UnityEvent Exit;
 
 	private void OnTriggerEnter(Collider other)
 	{
 		if(other.CompareTag("Player"))
-			Event.Invoke();
+			Enter.Invoke();
+	}
+
+	private void OnTriggerExit(Collider other)
+	{
+		if(other.CompareTag("Player"))
+			Exit.Invoke();
 	}
 }
